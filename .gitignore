@@ -6,6 +6,7 @@
 *.json
 megaphone
 phonebook
+*.log
 
 # Prerequisites
 *.d
